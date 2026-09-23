@@ -1,6 +1,6 @@
 # Mesh-Pico
 
-Make your own Meshtastic project with an RP2350-MINI(ETH)
+Make your own Meshtastic project with an [RP2350-MINI(ETH)](https://www.amazon.fr/dp/B0FBRPDPNX)
 
 ![board](images/proto.jpg)
 
@@ -12,7 +12,7 @@ Make your own Meshtastic project with an RP2350-MINI(ETH)
 
 ## RPI RP2350 PICO ZERO PINOUT
 
-![board](images/pinout eth.jpg)
+![board](images/pinout-eth.jpg)
 
 # Raspberry Pi Pico 2 + W5500 + E22-900M30S - Meshtastic Variant
 
@@ -116,7 +116,6 @@ Once completed, the firmware.uf2 file will be located in: .pio/build/pico/src
 
 Follow the flashing procedure described earlier to upload the firmware to your RP2040 device.
 
-![board](images/picouf2.png)
 
 ## PCB
 
