@@ -95,8 +95,6 @@ Open the following link in your browser:
 Once logged in with your GitHub account, Gitpod will automatically **fetch the Meshtastic source files**.  
 After loading, a **sidebar will appear** showing all the source files.
 
-![board](images/recompil.png)
-
 ## Step 4: Locate the `variant.h` File
 Navigate to the following directory: variants/rp2350/rp2350/diy/pico2_w5500_e22
 
