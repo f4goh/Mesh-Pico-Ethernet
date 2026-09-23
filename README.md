@@ -1,4 +1,4 @@
-# Mesh-Pico
+# Mesh-Pico-ethernet
 
 Make your own Meshtastic project with an [RP2350-MINI(ETH)](https://www.amazon.fr/dp/B0FBRPDPNX)
 
