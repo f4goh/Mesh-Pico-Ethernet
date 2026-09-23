@@ -1,6 +1,6 @@
 # Mesh-Pico-ethernet
 
-Make your own Meshtastic project with an [RP2350-MINI(ETH)](https://www.amazon.fr/dp/B0FBRPDPNX)
+Make your own Meshtastic project with an **[RP2350-MINI(ETH)](https://www.amazon.fr/dp/B0FBRPDPNX)** and an **RA-02/01** LoRa module.
 
 ![board](images/proto.jpg)
 
@@ -14,9 +14,9 @@ Make your own Meshtastic project with an [RP2350-MINI(ETH)](https://www.amazon.f
 
 ![board](images/pinout-eth.jpg)
 
-# Raspberry Pi Pico 2 + W5500 + E22-900M30S - Meshtastic Variant
+# Raspberry Pi Pico 2 + W5500 + RA-02/01 - Meshtastic Variant
 
-Meshtastic support for a **Raspberry Pi Pico 2** (RP2350, 4 MB flash) with an external **W5500** Ethernet module and an **EBYTE E22-900M30S** LoRa module.
+Meshtastic support for a **Raspberry Pi Pico 2** (RP2350, 4 MB flash) with an external **W5500** Ethernet module and an **RA-02/01** LoRa module.
 
 ---
 
